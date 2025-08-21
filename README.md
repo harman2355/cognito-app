@@ -1,6 +1,4 @@
-# Welcome to your EzSite project
 
-A clean, modern React template with TypeScript, Vite, TailwindCSS, and ShadCN UI components. This template provides a solid foundation for building web applications with best practices in mind.
 
 ## Tech Features
 
@@ -24,10 +22,6 @@ A clean, modern React template with TypeScript, Vite, TailwindCSS, and ShadCN UI
 ### Installation
 
 1. Clone this repository:
-```bash
-git clone https://github.com/your-username/react-template-project.git
-cd react-template-project
-```
 
 2. Install dependencies:
 ```bash
@@ -69,21 +63,3 @@ react-template-project/
 └── vite.config.ts       # Vite configuration
 ```
 
-## Customization
-
-- **Styling**: Modify `tailwind.config.ts` to customize your design tokens
-- **Components**: Add or modify components in the `src/components` directory
-- **Pages**: Create new pages in the `src/pages` directory
-- **Routing**: Update routes in `src/App.tsx`
-
-## Building for Production
-
-```bash
-npm run build
-# or
-yarn build
-# or
-pnpm build
-```
-
-The built files will be in the `dist` directory, ready to be deployed.
